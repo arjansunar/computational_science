@@ -67,5 +67,3 @@ print(fractional_knapsack_greedy_solution(
 
 
 
-
-
